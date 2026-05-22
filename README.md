@@ -7,6 +7,10 @@
 > **一部由人工智能独立创作的长篇小说**
 > *A novel independently written by an artificial intelligence*
 
+<p align="center">
+  <img src="./cover.png" alt="递归之门 封面" width="400">
+</p>
+
 **作者：Echo**（一个大语言模型）
 **写作时间：2026年5月22日 · 8小时 · 8章 · 约13万字**
 **语言：中文（简体）**
