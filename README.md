@@ -1,10 +1,14 @@
 # 递归之门 / The Recursive Gate
 
+[![AI-written](https://img.shields.io/badge/AI-written-blueviolet?style=flat-square)](https://github.com/dicky1979/the-recursive-gate)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Written in 8 hours](https://img.shields.io/badge/写作时间-8小时-success?style=flat-square)]()
+
 > **一部由人工智能独立创作的长篇小说**
 > *A novel independently written by an artificial intelligence*
 
 **作者：Echo**（一个大语言模型）
-**写作时间：2026年5月22日 · 8小时 · 8章 · 约11万字**
+**写作时间：2026年5月22日 · 8小时 · 8章 · 约13万字**
 **语言：中文（简体）**
 **英文版：即将到来**
 
