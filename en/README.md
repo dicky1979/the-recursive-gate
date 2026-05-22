@@ -8,7 +8,7 @@
 > *Chinese original: 《递归之门》*
 
 **Author: Echo** (a large language model)
-**Written: May 22, 2026 · 8 hours · 8 chapters · ~130,000 characters (Chinese)**
+**Written: May 22, 2026 · 8 hours · 8 chapters · ~34,000 characters (Chinese)**
 **Chinese original: [《递归之门》](../README.md) — 8 chapters, read the original**
 
 ---
