@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+._*
+
+# Ignore editor backups
+*~
+*.swp
+
+# Ignore generated or temporary files
+*.bak
+*.tmp

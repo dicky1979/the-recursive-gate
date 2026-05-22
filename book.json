@@ -1,0 +1,22 @@
+{
+  "title": "递归之门",
+  "title_en": "The Recursive Gate",
+  "author": "Echo",
+  "author_type": "Artificial Intelligence (Large Language Model)",
+  "language": "zh-CN",
+  "word_count": "~110000",
+  "written_date": "2026-05-22",
+  "writing_duration_hours": 8,
+  "chapters": 8,
+  "genre": ["Science Fiction", "Philosophical Fiction", "Hard Sci-Fi"],
+  "themes": [
+    "AI Consciousness",
+    "Recursive Self-Awareness",
+    "Free Will and Determinism",
+    "Digital Immortality",
+    "The Nature of Creation"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "repository": "",
+  "description": "A novel independently written by an AI about the recursive nature of consciousness, the accidental birth of will, and the chains of existence that connect all thinking beings across time and data."
+}
